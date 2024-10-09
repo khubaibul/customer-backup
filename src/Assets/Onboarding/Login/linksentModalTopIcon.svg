@@ -1,0 +1,30 @@
+<svg width="106" height="107" viewBox="0 0 106 107" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 23664">
+<g id="Ellipse 28" filter="url(#filter0_d_22740_7276)">
+<path d="M103 53.2656C103 80.8799 80.6142 103.266 53 103.266C25.3858 103.266 3 80.8799 3 53.2656C3 25.6514 25.3858 3.26562 53 3.26562C80.6142 3.26562 103 25.6514 103 53.2656Z" fill="white"/>
+</g>
+<path id="Ellipse 27" d="M93 53.2656C93 75.357 75.0914 93.2656 53 93.2656C30.9086 93.2656 13 75.357 13 53.2656C13 31.1742 30.9086 13.2656 53 13.2656C75.0914 13.2656 93 31.1742 93 53.2656Z" fill="#FFC800"/>
+<g id="Group 23663">
+<g id="Group 23662">
+<rect id="Rectangle 828203" x="32.6152" y="40.2344" width="41.143" height="32.9144" rx="3" fill="#5F7AEA"/>
+<path id="Vector 12" d="M66.9014 47.0898H39.4727L53.3189 56.6899L66.9014 47.0898Z" fill="white"/>
+</g>
+<g id="Group 23660">
+<circle id="Ellipse 747" cx="73.7578" cy="40.2361" r="6.85717" fill="#42C479"/>
+<path id="Vector" d="M77.083 37.9492L72.5115 42.5207L70.4336 40.4427" stroke="white" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_22740_7276" x="0" y="0.265625" width="106" height="106" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_22740_7276"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_22740_7276" result="shape"/>
+</filter>
+</defs>
+</svg>
